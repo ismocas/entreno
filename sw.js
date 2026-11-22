@@ -1,10 +1,10 @@
 // Service worker: guarda la app en el móvil para que funcione sin conexión.
 // Al cambiar cualquier archivo de la app, sube el número de versión.
-const VERSION = 'entreno-v1';
+const VERSION = 'entreno-v2';
 const FILES = [
   './', 'index.html', 'manifest.webmanifest', 'css/styles.css',
   'js/app.js', 'js/plan.js', 'js/engine.js', 'js/storage.js',
-  'icons/icon.svg', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/icon-maskable-512.png',
+  'icons/kleos.svg', 'icons/kleos-192.png', 'icons/kleos-512.png', 'icons/kleos-maskable-512.png',
 ];
 
 self.addEventListener('install', (e) => {

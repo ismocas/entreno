@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+  <defs>
+    <g id="h">
+      <path d="M228.6 411.6A158 158 0 0 1 202 107.5" fill="none" stroke="#0B0B0C" stroke-width="12" stroke-linecap="round"/>
+      <g fill="#0B0B0C">
+        <ellipse cx="202.5" cy="420.5" rx="8" ry="23" transform="rotate(-280 202.5 420.5)"/>
+        <ellipse cx="202.3" cy="388.9" rx="8" ry="23" transform="rotate(-224 202.3 388.9)"/>
+        <ellipse cx="150.2" cy="392.9" rx="8" ry="23" transform="rotate(-260.3 150.2 392.9)"/>
+        <ellipse cx="160.6" cy="363" rx="8" ry="23" transform="rotate(-204.3 160.6 363)"/>
+        <ellipse cx="110.2" cy="349.1" rx="8" ry="23" transform="rotate(-240.6 110.2 349.1)"/>
+        <ellipse cx="130.1" cy="324.6" rx="8" ry="23" transform="rotate(-184.6 130.1 324.6)"/>
+        <ellipse cx="87.3" cy="294.5" rx="8" ry="23" transform="rotate(-220.9 87.3 294.5)"/>
+        <ellipse cx="114.4" cy="278.1" rx="8" ry="23" transform="rotate(-164.9 114.4 278.1)"/>
+        <ellipse cx="84.2" cy="235.3" rx="8" ry="23" transform="rotate(-201.1 84.2 235.3)"/>
+        <ellipse cx="115.2" cy="229" rx="8" ry="23" transform="rotate(-145.1 115.2 229)"/>
+        <ellipse cx="101.3" cy="178.6" rx="8" ry="23" transform="rotate(-181.4 101.3 178.6)"/>
+        <ellipse cx="132.6" cy="183.1" rx="8" ry="23" transform="rotate(-125.4 132.6 183.1)"/>
+        <ellipse cx="136.4" cy="131" rx="8" ry="23" transform="rotate(-161.7 136.4 131)"/>
+        <ellipse cx="164.4" cy="145.7" rx="8" ry="23" transform="rotate(-105.7 164.4 145.7)"/>
+        <ellipse cx="185.6" cy="98" rx="8" ry="23" transform="rotate(-142 185.6 98)"/>
+        <ellipse cx="207" cy="121.3" rx="8" ry="23" transform="rotate(-86 207 121.3)"/>
+      </g>
+    </g>
+  </defs>
+  <rect width="512" height="512" rx="114" fill="#C8F25A"/>
+  <use xlink:href="#h" href="#h"/>
+  <use xlink:href="#h" href="#h" transform="translate(512 0) scale(-1 1)"/>
+  <g transform="translate(256 258) scale(0.52) translate(-256 -256)" fill="#0B0B0C">
+    <path d="M256 84C292 134 318 158 318 198C318 236 290 258 256 258C222 258 194 236 194 198C194 168 212 148 228 128C232 156 244 170 256 174C250 144 248 114 256 84Z"/>
+    <path d="M186 268H326L302 316H210Z"/>
+    <path d="M228 316H284L268 428H244Z"/>
+  </g>
+</svg>
